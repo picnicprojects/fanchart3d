@@ -5,7 +5,7 @@ python fanchart3d.py
 ```
 Then open index.html in a browser
 ## Features
-Fanchart3D combines a timeline with a fanchart into a 3D object in the browser<br>
+Fanchart3D combines a genealogy timeline with a fanchart into a 3D object in the browser<br>
 [![](img/PriestleyChart.gif)](img/PriestleyChart.gif) 
 [![](img/fanchart.jpg)](img/fanchart.jpg) <br>
 Python script fanchart3d.py creates a json data file.
