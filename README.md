@@ -1,5 +1,4 @@
 # Create 3D fanchart with timeline from a GEDCOM genealogy file.
-=======
 ## Usage
 ```
 python fanchart3d.py
