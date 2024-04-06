@@ -1,7 +1,5 @@
-# fanchart3d
-Create 3D fanchart with timeline from a GEDCOM genealogy file.
+# Create 3D fanchart with timeline from a GEDCOM genealogy file.
 =======
-# FanChart with Timeline (3D) from GEDCOM genealogy file
 ## Usage
 ```
 python fanchart3d.py
@@ -9,10 +7,10 @@ python fanchart3d.py
 Then open index.html in a browser
 ## Features
 Fanchart3D combines a timeline with a fanchart into a 3D object in the browser
-[![](img/fanchart.jpg)](img/fanchart.jpg) 
 [![](img/PriestleyChart.gif)](img/PriestleyChart.gif) 
-Create a 3D FanChart from a GEDCOM file. Python script fanchart3d.py creates a json data file.
-A javascript creates a 3D representation in the browser using Three.js.
+[![](img/fanchart.jpg)](img/fanchart.jpg) 
+Python script fanchart3d.py creates a json data file.
+Javascript file fanchart3d.js creates a 3D representation in the browser using Three.js.
 ## Example
 A 3D fanchart of the Dutch Royal Family
 [![Dutch Royal Family](img/dutchroyalfamily.gif)](img/dutchroyalfamily.gif) 
