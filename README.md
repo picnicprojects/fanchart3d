@@ -19,8 +19,8 @@ A 3D fanchart of the Dutch Royal Family
 - [famousfamilytrees](http://famousfamilytrees.blogspot.com/?m=1) for the demo gedcom files
 ## To do
 - [x] add animated gif
-- [] nicer animated gif
-- [] explain how dates are guessed
-- [] put text on top of the fanchart
-- [] put text on top of the timeline
-- [] add timeline with year numbers
+- [ ] nicer animated gif
+- [ ] explain how dates are guessed
+- [ ] put text on top of the fanchart
+- [ ] put text on top of the timeline
+- [ ] add timeline with year numbers
