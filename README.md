@@ -3,7 +3,8 @@
 ```
 python fanchart3d.py
 ```
-Then open index.html in a browser
+Then open index.html in a browser.<br>
+Edit fanchart3d.py to select your own GEDCOM file
 ## Features
 Fanchart3D combines a genealogy timeline with a fanchart into a 3D object in the browser<br>
 [![](img/PriestleyChart.gif)](img/PriestleyChart.gif) 
@@ -17,6 +18,9 @@ A 3D fanchart of the Dutch Royal Family
 - [gedcom.py](https://github.com/nickreynke/python-gedcom) by Nick Reynke to parse the gedcom file
 - [famousfamilytrees](http://famousfamilytrees.blogspot.com/?m=1) for the demo gedcom files
 ## To do
-- put text on top of the fanchart
-- put text on top of the timeline
-- add timeline with year numbers
+- [x] add animated gif
+- [] nicer animated gif
+- [] explain how dates are guessed
+- [] put text on top of the fanchart
+- [] put text on top of the timeline
+- [] add timeline with year numbers
